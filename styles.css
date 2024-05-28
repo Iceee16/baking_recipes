@@ -19,15 +19,6 @@ body {
     max-width: 50rem;
 }
 
-#footer {
-    padding: 1em;
-    text-align: center;
-    background: #603101;
-}
-
-a {
-    color: inherit;
-}
 
 #form-link {
     margin-top: 2em;
@@ -39,12 +30,6 @@ a {
     box-shadow: #6fa8dc 1px 1px 10px;
 }
 
-.hoverable {
-    transition: 0.3s;
-}
-.hoverable:hover {
-    transform: translateY(-5px);
-}
 
 .container {
     padding: 1em;
