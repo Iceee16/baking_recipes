@@ -46,14 +46,6 @@ a {
     transform: translateY(-5px);
 }
 
-.boba-number {
-    background-image: url('images/Food_BG.webp');
-    width: 16px;
-    height: 16px;
-    text-align: center;
-    padding: 4px;
-}
-
 .container {
     padding: 1em;
     background-image: linear-gradient(to bottom right, #e3d8c5, #a0794e);
